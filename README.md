@@ -1,16 +1,50 @@
-## Hi there 👋
+# Olá! Eu sou o Enrico Silva 👋
 
-<!--
-**EnricoNSilva/EnricoNSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil! Sou apaixonado por tecnologia, desenvolvimento de software e por entender como as coisas funcionam por baixo do capô (literalmente, já que também adoro carros, hardware e montar bons setups 🧊). 
 
-Here are some ideas to get you started:
+## 👨‍💻 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Estudante de **Ciência da Computação na FEI** (4º Semestre | 2024 - 2028).
+- 💼 Estagiário em Desenvolvimento na **Radar de Produtividade** desde 07/2025, focado em criar soluções, automações e facilitar o dia a dia das pessoas.
+- 💡 Movido a código e café, sou muito interessado no mercado financeiro, automações e criptomoedas.
+- 🎮 Quando não estou programando, você pode me encontrar traduzindo telas de *Persona 5 Royal*, farmando e otimizando builds no *Genshin Impact* ou colecionando cartas de Pokémon TCG.
+
+## 🏆 Projetos em Destaque
+
+Aqui estão alguns dos projetos que mais gostei de desenvolver e que mostram um pouco da minha evolução:
+
+1. **[Tradução em Tempo Real para Persona 5](https://github.com/EnricoNSilva/P5R-Tradutor)**: Script em Python focado em acessibilidade, utilizando OCR para capturar e traduzir o jogo diretamente na tela.
+2. **[Jogo em JavaScript](https://github.com/EnricoNSilva/Jogo-javascript)**: Meu primeiro projeto mais complexo! Desenvolvido do zero com JS, HTML e CSS, provando que dá para criar mecânicas divertidas mesmo fora de engines tradicionais.
+3. **[Rental Simulator](https://github.com/EnricoNSilva/CarRental-WinForms)**: Simulador desenvolvido em C#, focado em aplicar conceitos sólidos de orientação a objetos e regras de negócios.  
+4. **[Aplicações GUI em Java](https://github.com/EnricoNSilva/FEIFood)**: Desenvolvimento de interfaces gráficas desktop com o tema Ifood, utilizando a biblioteca JFrame, com foco em usabilidade e boas práticas.
+5. **Automações de Captação e Produtividade**: Fluxos complexos de automação criados com n8n (arquitetura de webhooks, integrações, follow-up de leads e integração com Twillio e API Oficial Meta).
+
+## 🛠️ Tecnologias e Ferramentas
+
+Minha stack de estudos e trabalho envolve um pouco de tudo, desde automações até desenvolvimento back-end e front-end:
+
+**Linguagens & Front-end:**
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**Bancos de Dados & Ferramentas:**
+![Database](https://img.shields.io/badge/Bancos_de_Dados-SQL-%23316192?style=for-the-badge&logo=databricks) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnricoNSilva&layout=compact&theme=radical&langs_count=6" alt="Linguagens mais usadas"/>
+</div>
+
+## 🐍 Contribuições
+
+<div align="center">
+  <img src="https://github.com/EnricoNSilva/EnricoNSilva/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
