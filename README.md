@@ -40,7 +40,7 @@ Minha stack de estudos e trabalho envolve um pouco de tudo, desde automações a
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnricoNSilva&layout=compact&theme=radical&langs_count=6" alt="Linguagens mais usadas"/>
+  <img src="https://github.com/EnricoNSilva/EnricoNSilva/raw/main/github-metrics.svg" alt="Linguagens mais usadas" />
 </div>
 
 ## 🐍 Contribuições
