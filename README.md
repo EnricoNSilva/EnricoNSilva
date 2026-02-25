@@ -6,20 +6,20 @@
 
 ---
 
-Bem-vindo ao meu perfil! Sou apaixonado por tecnologia, desenvolvimento de software e por entender como as coisas funcionam por baixo do capô (literalmente, já que também adoro carros, hardware e montar bons setups 🧊). 
+Bem-vindo ao meu perfil! Minha curiosidade sempre me fez querer entender como as coisas funcionam por baixo do capô — seja montando e otimizando setups de hardware 🧊, acompanhando o mundo automotivo ou arquitetando lógicas no código. 
 
 ## 👨‍💻 Sobre mim
 
 - 🎓 Estudante de **Ciência da Computação na FEI** (4º Semestre | 2024 - 2028).
-- 💼 Estagiário em Desenvolvimento na **Radar de Produtividade** desde 07/2025, focado em criar soluções, automações e facilitar o dia a dia das pessoas.
+- 💼 Estagiário em Desenvolvimento na **Radar de Produtividade** (desde 07/2025). Em vez de processos manuais, construo fluxos inteligentes e automações complexas com n8n (captação de leads, follow-ups e atendimento) que aceleram a operação e o time de vendas.
 - 💡 Movido a código e café, sou muito interessado no mercado financeiro, automações e criptomoedas.
 - 🎮 Quando não estou programando, você pode me encontrar traduzindo telas de *Persona 5 Royal*, farmando e otimizando builds no *Genshin Impact* ou colecionando cartas de Pokémon TCG.
 
 ## 🏆 Projetos em Destaque
 
-Aqui estão alguns dos projetos que mais gostei de desenvolver e que mostram um pouco da minha evolução:
+Aqui estão alguns dos projetos que mais gostei de desenvolver e que marcaram minha trajetória até aqui:
 
-1. **[Tradução em Tempo Real para Persona 5](https://github.com/EnricoNSilva/P5R-Tradutor)**: Script em Python focado em acessibilidade, utilizando OCR para capturar e traduzir o jogo diretamente na tela.
+1. **[Tradução em Tempo Real para Persona 5](https://github.com/EnricoNSilva/P5R-Tradutor)**: Script em Python nascido de uma necessidade própria: a dificuldade de entender termos específicos do jogo. Para quebrar essa barreira, desenvolvi essa ferramenta com foco em acessibilidade, utilizando OCR para capturar e traduzir os textos diretamente na tela.
 2. **[Jogo em JavaScript](https://github.com/EnricoNSilva/Jogo-javascript)**: Meu primeiro projeto mais complexo! Desenvolvido do zero com JS, HTML e CSS, provando que dá para criar mecânicas divertidas mesmo fora de engines tradicionais.
 3. **[Rental Simulator](https://github.com/EnricoNSilva/CarRental-WinForms)**: Simulador desenvolvido em C#, focado em aplicar conceitos sólidos de orientação a objetos e regras de negócios.  
 4. **[Aplicações GUI em Java](https://github.com/EnricoNSilva/FEIFood)**: Desenvolvimento de interfaces gráficas desktop com o tema Ifood, utilizando a biblioteca JFrame, com foco em usabilidade e boas práticas.
