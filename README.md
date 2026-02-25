@@ -59,7 +59,8 @@ Minha stack de estudos e trabalho envolve um pouco de tudo, desde automações a
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github.com/EnricoNSilva/EnricoNSilva/raw/main/github-metrics.svg" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats-kohl-sigma.vercel.app/api?username=EnricoNSilva&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>  
+  <img height="180em" src="https://github-readme-stats-kohl-sigma.vercel.app/api/top-langs/?username=EnricoNSilva&layout=compact&theme=midnight-purple&langs_count=6"/>
 </div>
 
 ## 🐍 Contribuições
