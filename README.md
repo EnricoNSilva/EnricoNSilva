@@ -17,13 +17,18 @@ Bem-vindo ao meu perfil! Minha curiosidade sempre me fez querer entender como as
 
 ## 🏆 Projetos em Destaque
 
-Aqui estão alguns dos projetos que mais gostei de desenvolver e que marcaram minha trajetória até aqui:
+Aqui estão os projetos que mais gostei de desenvolver e que marcam minha evolução desde a base acadêmica até a entrega de produtos finais:
 
-1. **[Tradução em Tempo Real para Persona 5](https://github.com/EnricoNSilva/P5R-Tradutor)**: Script em Python nascido de uma necessidade própria: a dificuldade de entender termos específicos do jogo. Para quebrar essa barreira, desenvolvi essa ferramenta com foco em acessibilidade, utilizando OCR para capturar e traduzir os textos diretamente na tela.
-2. **[Jogo em JavaScript](https://github.com/EnricoNSilva/Jogo-javascript)**: Meu primeiro projeto mais complexo! Desenvolvido do zero com JS, HTML e CSS, provando que dá para criar mecânicas divertidas mesmo fora de engines tradicionais.
-3. **[Rental Simulator](https://github.com/EnricoNSilva/CarRental-WinForms)**: Simulador desenvolvido em C#, focado em aplicar conceitos sólidos de orientação a objetos e regras de negócios.  
-4. **[Aplicações GUI em Java](https://github.com/EnricoNSilva/FEIFood)**: Desenvolvimento de interfaces gráficas desktop com o tema Ifood, utilizando a biblioteca JFrame, com foco em usabilidade e boas práticas.
-5. **Automações de Captação e Produtividade**: Fluxos complexos de automação criados com n8n (arquitetura de webhooks, integrações, follow-up de leads e integração com Twillio e API Oficial Meta).
+1. **[📱 Ionitron App (Ionic Showcase)](https://github.com/EnricoNSilva/ionic-showcase)** Meu projeto mobile mais completo! Desenvolvido com **Ionic** e **Angular** (Standalone Components), o aplicativo conta com sistema de autenticação real via **Firebase**, consumo assíncrono de APIs REST (ViaCEP e Rick & Morty) e uma UI moderna no padrão Google.  
+   [![Baixar APK](https://img.shields.io/badge/Download-APK%20Android-brightgreen?style=flat-square&logo=android)](https://github.com/EnricoNSilva/ionic-showcase/releases/latest)
+
+2. **[🎮 Tradução em Tempo Real para Persona 5](https://github.com/EnricoNSilva/P5R-Tradutor)** Script em **Python** nascido de uma necessidade própria para jogar. Focado em acessibilidade, utilizo OCR (Visão Computacional) e APIs em nuvem para capturar, extrair e traduzir os textos da tela do jogo em tempo real através de um overlay.
+
+3. **[🍔 FEIFood (CRUD com GUI em Java)](https://github.com/EnricoNSilva/FEIFood)** Projeto focado em usabilidade e design de software. Desenvolvi uma interface gráfica desktop temática (inspirada no iFood) utilizando a biblioteca `JFrame`, aplicando conceitos rígidos de Orientação a Objetos e boas práticas.
+
+4. **[🚗 Rental Simulator](https://github.com/EnricoNSilva/CarRental-WinForms)** Simulador de aluguel de veículos desenvolvido em **C#** (Windows Forms). O foco deste projeto foi a aplicação de regras de negócio complexas e estruturação sólida de código orientado a objetos.
+
+5. **[⚙️ Automações de Captação e Chatbot para atendimento Whatsapp](#)** *(Projeto Profissional)* Experiência prática com fluxos complexos de automação criados no **n8n**. Arquitetura envolvendo webhooks, tratamento de dados de leads e integrações robustas com Twilio e a API Oficial da Meta (WhatsApp).
 
 ## 🛠️ Tecnologias e Ferramentas
 
